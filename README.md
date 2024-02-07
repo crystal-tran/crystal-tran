@@ -12,7 +12,7 @@ I'm a software engineering student at [Rithm School](https://github.com/rithmsch
 ```python
 class AboutMe:
     	user = 'Crystal Tran'
-	pronouns = ['she','her','hers]
+	pronouns = ['she','her','hers']
 	hobbies = [
 			'Crocheting',
 			'Gaming',
