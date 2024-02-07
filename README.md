@@ -7,7 +7,7 @@ I'm a software engineering student at [Rithm School](https://github.com/rithmsch
 
 
 ### About Me 💬
-<img align="right" width="300" height="400" src="https://media.giphy.com/media/z4802TDa6JqIytePrG/giphy.gif">
+<img align="right" width="300" height="350" src="https://media.giphy.com/media/z4802TDa6JqIytePrG/giphy.gif">
 
 ```python
 class AboutMe:
