@@ -2,7 +2,7 @@
 
 
 
-I'm a software engineering student at [Rithm School](https://github.com/rithmschool/) who is passionate about problem-solving and emerging technologies. 
+I'm a student at [Rithm School](https://github.com/rithmschool/) and a future developer who is passionate about problem-solving and emerging technologies. 
 
 
 
