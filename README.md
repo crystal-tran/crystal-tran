@@ -17,17 +17,17 @@ class AboutMe:
 			'Crocheting',
 			'Gaming',
 			'Hiking',
-			'Watching One Piece'
+			'Breadmaking'
 		]
 	
 	def getCity():
 		return Raleigh_NC()
 	
 	def Interests():
-		Photography()
+		Kayaking()
 		Concerts()
-		Boba()
-		MechanicalKeyboards()
+		LearningLanguages()
+		BattleStations()
 	
  ```
 
