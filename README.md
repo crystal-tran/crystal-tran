@@ -44,7 +44,10 @@ class AboutMe:
 ###  Connect 🔗
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/crystal--tran/)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">](https://twitter.com/_crissywakeup)
-
+[![Website](https://img.shields.io/badge/Website-9883e5?style=for-the-badge&logo=%23A8B9CC)](https://crystaltran.dev/)
+<details>
+<summary> More about me: </summary>
+	
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -76,7 +79,7 @@ class AboutMe:
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<details>
+
 <summary><h4>Want to hear a joke?</h4></summary>
 <br>
 
