@@ -2,7 +2,7 @@
 
 
 
-I'm a software engineer and a recent grad from [Rithm School](https://github.com/rithmschool/). 
+I'm a software engineer at Red Ventures. I graduated from [Rithm School](https://github.com/rithmschool/) in 2024. 
 
 
 
